@@ -2,8 +2,6 @@
 
 ##### I am a 20 year old female and currently a full time Computer Science undergrad.  
 
-<img align="right"  width="200px" height="200px" src="https://user-images.githubusercontent.com/65444364/96029843-ed99a300-0e7a-11eb-99c3-b9d64151d5bf.png" />
-
 ### A Little About Me:
 - **Pronouns :** *She/Her*
 - **Currently Learning :** *Python*
