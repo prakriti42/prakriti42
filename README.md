@@ -26,4 +26,4 @@
   <code><img  height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  -------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=p00-codes&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti00&show_icons=true&hide_border=true"/>
