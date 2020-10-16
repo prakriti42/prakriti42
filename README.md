@@ -1,6 +1,6 @@
 ## Hi there :smile:
 
-##### I am a 20 year old female and currently a full time Computer Science undergrad.  
+##### I am a 20 year old female and currently a full time Computer Science undergraduate.  
 
 ### A Little About Me:
 - **Pronouns :** *She/Her*
