@@ -2,12 +2,7 @@
 
 ##### I am a 20 year old female and currently a full time Computer Science undergraduate.  
 
-### A Little About Me:
-- **Pronouns :** *She/Her*
-- **Currently Learning :** *Python*
-- **From :** *Kathmandu , Nepal* 
-- **Interests :** *Tv shows , Movies , Skies , Books and Succulents.* 
-### Find More of Me On :  
+### Find Me On :  
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/regmi_praku)
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://www.t.me/regmi_prakriti)
