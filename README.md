@@ -22,6 +22,6 @@
   <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
  -------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti42&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti42&show_icons=true&hide_border=true"/> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/>
 
