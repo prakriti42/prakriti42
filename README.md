@@ -23,5 +23,5 @@
  -------
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti42&show_icons=true&hide_border=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/>
 
