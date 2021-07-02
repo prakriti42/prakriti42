@@ -14,7 +14,7 @@
 
 ### Programming Skills :computer: :
 
-   <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/figma.png"></code>
+ 
   <code><img  height="30" width="30" src="https://img.icons8.com/color/2x/html-5.png"></code>
   <code><img  height="30" width="30" src="https://img.icons8.com/color/2x/css3.png"></code>
   <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
