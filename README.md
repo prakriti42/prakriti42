@@ -1,4 +1,4 @@
-## Hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>
+# Hello<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>
 
 ##### I am currently a full time Computer Science undergraduate.  
 
