@@ -25,6 +25,9 @@
   
  -------
 
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact&theme=midnight-purple)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakriti42&hide=prs,issues,contribs?username=prakriti42&count_private=true?username=prakriti42&show_icons=true&layout=compact&theme=midnight-purple)
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti42&show_icons=true&hide_border=true"/> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/> -->
 
