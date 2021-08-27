@@ -1,6 +1,7 @@
-# Hello<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>
 
-##### I am currently a full time Computer Science undergraduate.  
+<h1 align="center">Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>, I'm Prakriti</h1>
+<h3 align="center">Computer Science Undergraduate Student</h3>
+ 
 
 ### Find Me On :  
 
