@@ -1,7 +1,9 @@
 
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>, I'm Prakriti</h1>
 <h3 align="center">Computer Science Undergraduate Student</h3>
- 
+ <img src="https://visitor-badge.glitch.me/badge?page_id=prakriti42" alt="Visitors badge" height="30">
 
 ### Find Me On :  
 
