@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>, I'm Prakriti</h1>
-<h3 align="center">I develop and interact.</h3>
+<h1 align="center">Hi, I'm Prakriti</h1>
+<h3 align="center">Working with data.</h3>
  <img src="https://visitor-badge.glitch.me/badge?page_id=prakriti42" alt="Visitors badge" height="30">
 
 ### Find Me On :  
@@ -27,8 +27,3 @@
     <code><img  height="30" width="30" src="https://img.icons8.com/color/48/000000/heroku.png"></code>
   
  -------
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakriti42&hide=prs,contribs?username=prakriti42&count_private=true?username=prakriti42&show_icons=true&layout=compact&theme=midnight-purple)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prakriti42&theme=midnight-purple&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=prakriti42&show_icons=true&hide_border=true"/> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakriti42&layout=compact"/> -->
-
